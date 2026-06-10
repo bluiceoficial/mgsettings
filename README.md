@@ -1,5 +1,8 @@
 # MGSettings
 
+> [!NOTE]
+> This repository has been migrated to Codeberg, please see: https://codeberg.org/bluice/mgsettings
+
 **MGSettings** é uma biblioteca leve em Go para **gerenciamento simples de configurações persistentes**, utilizando arquivos JSON armazenados automaticamente no diretório do usuário ou em um caminho customizado.
 
 Ideal para aplicações CLI, desktop ou serviços que precisam salvar preferências sem dependências externas.
